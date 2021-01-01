@@ -4,6 +4,6 @@ All programs from the RWTH Aachen University course from WS 20/21.
 
 # Languages
 
-Java
-Haskell
+Java,
+Haskell,
 Prolog
